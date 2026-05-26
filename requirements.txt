@@ -1,0 +1,9 @@
+flask
+pandas
+openpyxl
+gunicorn
+gspread
+oauth2client
+requests
+twilio
+schedule
